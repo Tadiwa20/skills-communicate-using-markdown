@@ -3,3 +3,6 @@
 
 $ git init
 Initialized empty git repository in /Tadiwa20/Material/.git/
+-[ ] Turn on Github Pages
+-[ ] Outline my portfolio
+-[ ] Introduce myself to the world
